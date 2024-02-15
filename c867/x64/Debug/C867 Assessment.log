@@ -1,0 +1,13 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\roster.cpp(15,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\roster.cpp(19,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\roster.cpp(23,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\roster.cpp(27,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\roster.cpp(31,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\roster.cpp(35,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\roster.cpp(40,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\roster.cpp(44,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  C867 Assessment.vcxproj -> C:\Users\isaac\Documents\Visual Studio 2022\Templates\WGU-C867-Final-main\x64\Debug\C867 Assessment.exe

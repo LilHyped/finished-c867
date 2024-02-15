@@ -1,0 +1,10 @@
+﻿  roster.cpp
+C:\Users\isaac\Documents\c867\roster.cpp(15,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\c867\roster.cpp(19,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\c867\roster.cpp(23,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\c867\roster.cpp(27,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\c867\roster.cpp(31,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\c867\roster.cpp(35,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\c867\roster.cpp(39,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\isaac\Documents\c867\roster.cpp(43,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  C867 Assessment.vcxproj -> C:\Users\isaac\Documents\c867\x64\Debug\C867 Assessment.exe
